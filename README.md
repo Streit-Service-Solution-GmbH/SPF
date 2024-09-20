@@ -7,4 +7,4 @@ Die ELO Business Solution Streit Projectfile Solution (SPF) bietet eine umfassen
 Um die Streit Projectfile Solution (SPF) zu installieren, ziehen Sie die im Repository enthaltenen .eloinst-Dateien per Drag-and-Drop auf den ELO JavaClient. Alle erforderlichen Referenzen und Konfigurationen werden automatisch eingerichtet.
 
 ## Config App 
-In der Config App können Sie den gewünschten Ablagepfad, sowie die gewünschte Ablageregel konfigurieren. Außerdem können sie einstellen, nach welchem Chema ihre Projekte benannt werden sollen, nachdem diese angelegt wurden.
+In der Config App können Sie den gewünschten Ablagepfad, sowie die gewünschte Ablageregel konfigurieren. Außerdem können sie einstellen, nach welchem Schema ihre Projekte benannt werden sollen, nachdem diese angelegt wurden.
